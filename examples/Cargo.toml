@@ -6,6 +6,7 @@ members = [
   "fibonacci/script",
   "io/script",
   "is-prime/script",
+  "wrong-hash/script",
   "json/lib",
   "json/script",
   "regex/script",
